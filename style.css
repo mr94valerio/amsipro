@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'amsibold';
-    src: url("https://mr94valerio.github.io/amsipro/amsi-bold.tff") format("opentype");
+    src: url("https://mr94valerio.github.io/amsipro/amsi-bold.ttf") format("opentype");
     font-weight: 100;
     font-style: normal;
 } 
 
 @font-face {
     font-family: 'amsisemibold';
-    src: url("https://mr94valerio.github.io/amsipro/amsi-semibold.tff") format("opentype");
+    src: url("https://mr94valerio.github.io/amsipro/amsi-semibold.ttf") format("opentype");
     font-weight: 100;
     font-style: normal;
 } 
 
 @font-face {
-    font-family: 'amsiregular';
-    src: url("https://mr94valerio.github.io/amsipro/amsi-black.tff") format("opentype");
+    font-family: 'amsiblack
+    src: url("https://mr94valerio.github.io/amsipro/amsi-black.ttf") format("opentype");
     font-weight: 100;
     font-style: normal;
-} 
+}
