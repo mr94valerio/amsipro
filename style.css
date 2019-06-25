@@ -8,13 +8,13 @@
 @font-face {
     font-family: 'amsisemibold';
     src: url("https://mr94valerio.github.io/amsipro/amsi-semibold.ttf") format("opentype");
-    font-weight: 100;
+    font-weight: 200;
     font-style: normal;
 } 
 
 @font-face {
     font-family: 'amsiblack';
     src: url("https://mr94valerio.github.io/amsipro/amsi-black.ttf") format("opentype");
-    font-weight: 100;
+    font-weight: 300;
     font-style: normal;
 }
